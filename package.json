@@ -1,0 +1,25 @@
+{
+  "name": "zsisc27",
+  "version": "1.0.0",
+  "description": "Forty by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqq555/zsisc27.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqqq555/zsisc27/issues"
+  },
+  "homepage": "https://github.com/qqqq555/zsisc27#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "path": "^0.12.7"
+  }
+}
