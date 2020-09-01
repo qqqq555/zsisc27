@@ -1030,6 +1030,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
+			.evarwd{
+				width: 100%;
+				height: auto;
+			}
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
