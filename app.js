@@ -63,7 +63,7 @@ async function gsrun(cl){
     const gsapi = google.sheets({version:'v4',auth: cl});
     const optbeauty = {
         spreadsheetId: '1umnWJdDGmb1bUjGClxldn9VMo54iYSdKzSYiqPx5jnw',
-        range: 'beauty!A2:C11'
+        range: 'beauty!A2:D11'
     };
 
 
@@ -75,7 +75,7 @@ async function gsrun(cl){
 
     const optcpp = {
         spreadsheetId: '1umnWJdDGmb1bUjGClxldn9VMo54iYSdKzSYiqPx5jnw',
-        range: 'cpp!A2:E11'
+        range: 'cpp!A2:F11'
     };
 
 
