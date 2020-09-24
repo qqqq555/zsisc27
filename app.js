@@ -75,7 +75,7 @@ async function gsrun(cl){
 
     const optcpp = {
         spreadsheetId: '1umnWJdDGmb1bUjGClxldn9VMo54iYSdKzSYiqPx5jnw',
-        range: 'cpp!A2:F11'
+        range: 'cpp!A2:J11'
     };
 
 
