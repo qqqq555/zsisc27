@@ -19,7 +19,8 @@
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "googleapis": "^39.2.0",
+    "googleapis": "^61.0.0",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {}
 }
